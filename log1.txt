@@ -1,0 +1,18 @@
+2021-11-05 11:38:38,412 - __main__ - INFO - start
+2021-11-05 11:39:32,518 - __main__ - INFO - 1
+2021-11-05 11:39:47,022 - __main__ - INFO - 0
+2021-11-05 11:43:07,724 - __main__ - INFO - load
+2021-11-05 11:43:21,595 - __main__ - INFO - load a
+2021-11-05 11:43:33,403 - __main__ - INFO - load a
+2021-11-05 11:43:36,811 - __main__ - INFO - load b
+2021-11-05 11:44:49,678 - __main__ - INFO - Start print log
+2021-11-05 11:44:49,679 - __main__ - WARNING - Something maybe fail.
+2021-11-05 11:44:49,679 - __main__ - INFO - Finish
+2021-11-05 11:45:07,081 - __main__ - INFO - Start print log
+2021-11-05 11:45:31,022 - __main__ - INFO - load b
+2021-11-05 11:45:47,419 - __main__ - INFO - load b
+2021-11-05 13:49:47,373 - __main__ - INFO - Start print log
+2021-11-05 13:50:24,414 - __main__ - INFO - Start print log11
+2021-11-05 13:50:54,831 - __main__ - INFO - Start print log
+2021-11-05 13:50:54,832 - __main__ - WARNING - Something maybe fail.
+2021-11-05 13:50:54,835 - __main__ - INFO - Finish
